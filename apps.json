@@ -49,7 +49,7 @@
           "downloadUrl": "https://github.com/CoComStudios/cocom-apps/releases/download/kairo-code-v0.2.0/kairo-code-0.2.0-win.zip",
           "exePath": "Kairo Code.exe",
           "zipFileName": "kairo-code-0.2.0-win.zip",
-          "checksum": "sha256:a639a214c921c8907fa49ed9b085081a411b33d55cc8b539374a07bd2e0d7783"
+          "checksum": "sha256:0bfaf4f2af1fb7f9261d6a99480ef73df33e71885010d77e2f816805b837348a"
         },
         "macos": {
           "downloadUrl": "",
