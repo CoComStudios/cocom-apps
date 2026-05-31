@@ -1,0 +1,113 @@
+{
+  "launcher": {
+    "version": "0.1.0",
+    "downloadUrl": "https://github.com/CoComStudios/cocom-apps/releases/download/launcher-v0.1.0/co-com-studios-launcher-0.1.0-win.zip",
+    "releaseNotes": [
+      "Co Com Studios Launcher v0.1.0 — install and update Kairo Code and Kroma Studios from one hub.",
+      "Windows portable ZIP; checksum verified on install."
+    ]
+  },
+  "apps": [
+    {
+      "id": "kroma",
+      "name": "Kroma Studios",
+      "description": "2D animation and drawing studio for frames, layers, and exports.",
+      "category": "Animation",
+      "version": "0.1.0",
+      "platforms": {
+        "windows": {
+          "downloadUrl": "https://github.com/CoComStudios/cocom-apps/releases/download/kroma-v0.1.0/kroma-0.1.0-win.zip",
+          "exePath": "Kroma.exe",
+          "zipFileName": "kroma-0.1.0-win.zip",
+          "checksum": "sha256:fee72d3956bd691fb088a1a82175de7319fee4f605d3d36ea12c10e14855c508"
+        },
+        "macos": {
+          "downloadUrl": "",
+          "exePath": "Kroma.app",
+          "zipFileName": "kroma-0.1.0-mac.zip",
+          "checksum": "sha256:pending"
+        }
+      },
+      "icon": "KromaIcon.jpg",
+      "banner": "kroma-banner.png",
+      "releaseDate": "2026-05-01",
+      "changelog": [
+        "Portable Windows build for the Co Com Studios Launcher.",
+        "Drawing export uses the composed 2D frame.",
+        "Timeline playback follows the real frame list."
+      ]
+    },
+    {
+      "id": "kairo-code",
+      "name": "Kairo Code",
+      "description": "Local AI coding workspace — edit projects, run code, and use Ollama on your machine.",
+      "category": "Developer Tools",
+      "version": "0.2.0",
+      "icon": "CoComIcon.png",
+      "platforms": {
+        "windows": {
+          "downloadUrl": "https://github.com/CoComStudios/cocom-apps/releases/download/kairo-code-v0.2.0/kairo-code-0.2.0-win.zip",
+          "exePath": "Kairo Code.exe",
+          "zipFileName": "kairo-code-0.2.0-win.zip",
+          "checksum": "sha256:a639a214c921c8907fa49ed9b085081a411b33d55cc8b539374a07bd2e0d7783"
+        },
+        "macos": {
+          "downloadUrl": "",
+          "exePath": "Kairo Code.app",
+          "zipFileName": "kairo-code-0.2.0-mac.zip",
+          "checksum": "sha256:pending"
+        }
+      },
+      "releaseDate": "2026-05-31",
+      "changelog": [
+        "Project folders with recent projects and real file save.",
+        "AI edits apply in the editor with preview and Keep / Discard.",
+        "Ollama local models supported on Windows and macOS."
+      ]
+    },
+    {
+      "id": "sylen-design",
+      "name": "Sylen Design",
+      "description": "Desktop image and design editor for creators.",
+      "category": "Design",
+      "version": "0.1.0",
+      "comingSoon": true,
+      "platforms": {
+        "windows": {
+          "downloadUrl": "",
+          "exePath": "Sylen Design.exe"
+        },
+        "macos": {
+          "downloadUrl": "",
+          "exePath": "Sylen Design.app"
+        }
+      },
+      "releaseDate": "2026-05-31",
+      "changelog": [
+        "In development — not available for install yet."
+      ]
+    },
+    {
+      "id": "orune-editor",
+      "name": "Orune Editor",
+      "description": "Free local video editor for fast cuts, captions, effects, and exports.",
+      "category": "Video Editing",
+      "version": "0.1.0",
+      "comingSoon": true,
+      "platforms": {
+        "windows": {
+          "downloadUrl": "",
+          "exePath": "Orune Editor.exe"
+        },
+        "macos": {
+          "downloadUrl": "",
+          "exePath": "Orune Editor.app"
+        }
+      },
+      "releaseDate": "2026-05-31",
+      "changelog": [
+        "In development — not available for install yet."
+      ]
+    }
+  ]
+}
