@@ -42,27 +42,27 @@
       "name": "Kairo Code",
       "description": "Local AI coding workspace — edit projects, run code, and use Ollama on your machine.",
       "category": "Developer Tools",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "icon": "KairoCodeIcon.png",
       "platforms": {
         "windows": {
-          "downloadUrl": "https://github.com/CoComStudios/cocom-apps/releases/download/kairo-code-v0.2.0/kairo-code-0.2.0-win.zip",
+          "downloadUrl": "https://github.com/CoComStudios/cocom-apps/releases/download/kairo-code-v0.2.1/kairo-code-0.2.1-win.zip",
           "exePath": "Kairo Code.exe",
-          "zipFileName": "kairo-code-0.2.0-win.zip",
-          "checksum": "sha256:276dfb1f0a9fc5c968ca3c23f25c7c7ba8e136b42fe2b1100f48c0565bdb46a7"
+          "zipFileName": "kairo-code-0.2.1-win.zip",
+          "checksum": "sha256:0cdcd85da394469d29319e5453581c32ed274dca8b132073071c53507dedf197"
         },
         "macos": {
           "downloadUrl": "",
           "exePath": "Kairo Code.app",
-          "zipFileName": "kairo-code-0.2.0-mac.zip",
+          "zipFileName": "kairo-code-0.2.1-mac.zip",
           "checksum": "sha256:pending"
         }
       },
       "releaseDate": "2026-05-31",
       "changelog": [
-        "Project folders with recent projects and real file save.",
-        "AI edits apply in the editor with preview and Keep / Discard.",
-        "Ollama local models supported on Windows and macOS."
+        "Fixes blank white window on launch (unpacked app bundle).",
+        "Official Kairo Code icon in app and Windows taskbar.",
+        "Project folders, AI edits, and Ollama local models."
       ]
     },
     {
