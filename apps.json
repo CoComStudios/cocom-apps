@@ -43,13 +43,13 @@
       "description": "Local AI coding workspace — edit projects, run code, and use Ollama on your machine.",
       "category": "Developer Tools",
       "version": "0.2.0",
-      "icon": "CoComIcon.png",
+      "icon": "KairoCodeIcon.png",
       "platforms": {
         "windows": {
           "downloadUrl": "https://github.com/CoComStudios/cocom-apps/releases/download/kairo-code-v0.2.0/kairo-code-0.2.0-win.zip",
           "exePath": "Kairo Code.exe",
           "zipFileName": "kairo-code-0.2.0-win.zip",
-          "checksum": "sha256:0bfaf4f2af1fb7f9261d6a99480ef73df33e71885010d77e2f816805b837348a"
+          "checksum": "sha256:a373610f8d3d092df974a282efdc06a1a762072042fc966ad17d42c49cd1d420"
         },
         "macos": {
           "downloadUrl": "",
