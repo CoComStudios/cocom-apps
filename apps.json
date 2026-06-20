@@ -66,25 +66,30 @@
       ]
     },
     {
-      "id": "sylen-design",
-      "name": "Sylen Design",
-      "description": "Desktop image and design editor for creators.",
+      "id": "stylen-design",
+      "name": "Stylen Design",
+      "description": "Free local image and design editor for creators — Canva/Photoshop-style tools without a subscription.",
       "category": "Design",
       "version": "0.1.0",
-      "comingSoon": true,
       "platforms": {
         "windows": {
-          "downloadUrl": "",
-          "exePath": "Sylen Design.exe"
+          "downloadUrl": "https://github.com/CoComStudios/cocom-apps/releases/download/stylen-design-v0.1.0/stylen-design-0.1.0-win.zip",
+          "exePath": "Stylen Design.exe",
+          "zipFileName": "stylen-design-0.1.0-win.zip",
+          "checksum": "sha256:c9c24a193d751eca8144e06a24dcc20826125725a194d0af7079f3905821f92b"
         },
         "macos": {
           "downloadUrl": "",
-          "exePath": "Sylen Design.app"
+          "exePath": "Stylen Design.app",
+          "zipFileName": "stylen-design-0.1.0-mac.zip",
+          "checksum": "sha256:pending"
         }
       },
-      "releaseDate": "2026-05-31",
+      "releaseDate": "2026-06-20",
       "changelog": [
-        "In development — not available for install yet."
+        "First Windows tester release for Stylen Design.",
+        "Local design editor with templates, text, elements, VFX, draw tools, project save/open, and image export.",
+        "macOS build is pending a macOS runner because DMG/app packaging cannot be produced on Windows."
       ]
     },
     {
