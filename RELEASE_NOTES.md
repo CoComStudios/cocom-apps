@@ -1,4 +1,12 @@
-# Co Com Studios — release notes (2026-05-31)
+# Co Com Studios — release notes (2026-06-20)
+
+## stylen-design-v0.1.0
+
+**Stylen Design 0.1.0** (Windows tester build)
+
+- Free local design editor for templates, text, elements, VFX, drawing, project save/open, and PNG/JPEG/WebP export.
+- Asset: `stylen-design-0.1.0-win.zip` — portable ZIP for the Co Com Studios Launcher; extract and run `Stylen Design.exe`.
+- macOS `.dmg` / `.zip` is pending a macOS build runner.
 
 ## launcher-v0.1.0
 
@@ -26,5 +34,4 @@
 ## Not in this release
 
 - Orune Editor — Coming Soon
-- Sylen Design — Coming Soon
 - macOS builds — not yet published
