@@ -1,10 +1,10 @@
 {
   "launcher": {
-    "version": "0.1.0",
-    "downloadUrl": "https://github.com/CoComStudios/cocom-apps/releases/download/launcher-v0.1.0/co-com-studios-launcher-0.1.0-win.zip",
+    "version": "0.1.1",
+    "downloadUrl": "https://github.com/CoComStudios/cocom-apps/releases/download/launcher-v0.1.1/co-com-studios-launcher-0.1.1-win.zip",
     "releaseNotes": [
-      "Co Com Studios Launcher v0.1.0 — install and update Kairo Code and Kroma Studios from one hub.",
-      "Windows portable ZIP; checksum verified on install."
+      "Co Com Studios Launcher v0.1.1 — adds Stylen Design with its official icon.",
+      "Borderless launcher window and local Stylen Design launch support."
     ]
   },
   "apps": [
@@ -71,6 +71,7 @@
       "description": "Free local image and design editor for creators — Canva/Photoshop-style tools without a subscription.",
       "category": "Design",
       "version": "0.1.0",
+      "icon": "StylenDesignIcon.png",
       "platforms": {
         "windows": {
           "downloadUrl": "https://github.com/CoComStudios/cocom-apps/releases/download/stylen-design-v0.1.0/stylen-design-0.1.0-win.zip",
